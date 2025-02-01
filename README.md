@@ -2,7 +2,7 @@
        Project Duration: 2024.10 ~ 2025.10
        
 -IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
-        Project Duration: 2024.10 ~ 2025.10
+    Project Duration: 2024.10 ~ 2025.10
 
 -MDPI Sensors Journal(IF:3.4) : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments (2025.01)
 
