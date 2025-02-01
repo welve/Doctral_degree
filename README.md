@@ -6,7 +6,7 @@
        Accepted : 2024.10
        Software : Algorithm with Python
 
-#### -MDPI Sensors Journal(IF:3.4) : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
+#### -MDPI Sensors Journal (IF:3.4) : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
 
        Accepted : 2025.01
        Software : Algorithm with C++
