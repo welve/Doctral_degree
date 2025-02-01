@@ -3,8 +3,8 @@
        
 -IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
         
-    Acceptance date : 2024.10
-    Sotware : Algorithm with C++
+       Acceptance date : 2024.10
+       Sotware : Algorithm with C++
 
 -MDPI Sensors Journal(IF:3.4) : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments (2025.01)
 
