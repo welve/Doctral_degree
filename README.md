@@ -1,6 +1,4 @@
-## 🗺️ Multi-Story Path Planning algorithm with multiple target locations (MSPP algorithm)
-
- **MSPP-v0**
+##  [4 Wheel Independent Steering(4WIS) mobile robot]
 
 
    
