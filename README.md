@@ -1,4 +1,4 @@
-# 🎯 Project 1 : 2024.10 ~ 2025.10
+# 🎯 Project 1 : ### Research Focus : 4 Wheel Independent Steering(4WIS) mobile robot 
 
 ### Research Focus : 4 Wheel Independent Steering(4WIS) mobile robot 
        
