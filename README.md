@@ -1,5 +1,5 @@
 # 🎯 Project 1 
-### Research Focus : 4 Wheel Independent Steering(4WIS) mobile robot 
+### [Research Focus : 4 Wheel Independent Steering(4WIS) mobile robot] 
        
 #### -IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
         
