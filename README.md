@@ -3,7 +3,7 @@
 📅 **Project Duration:** ***2024.10 ~ 2025.10***
 
        
-#### - IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
+#### - IEEE/IEIE ICCE-Asia International Conference 2024 (9th) :<br> Human trajectory prediction algorithm 
         
        Accepted : 2024.10
        Software : Algorithm with Python
