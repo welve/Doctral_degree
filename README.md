@@ -3,13 +3,13 @@
 📅 **Project Duration:** ***2024.10 ~ 2025.10***
 
        
-#### -IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
+#### - IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
         
        Accepted : 2024.10
        Software : Algorithm with Python
        Materials : LiDAR, Kalman-filter
 
-#### -MDPI Sensors Journal (🟢 IF:3.4) :<br>&nbsp; Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
+#### - MDPI Sensors Journal (🟢 IF:3.4) :<br> Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
 
        Accepted : 2025.01
        Software : Algorithm with C++
