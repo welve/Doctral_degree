@@ -11,4 +11,4 @@
 
        Accepted : 2025.01
        Software : Algorithm with C++
-       Kinematics of 4WIS mobile robot
+       Materials : Kinematics of 4WIS mobile robot
