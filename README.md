@@ -6,6 +6,7 @@
         
        Accepted : 2024.10
        Software : Algorithm with Python
+       Materials : LiDAR, Kalman-filter
 
 #### -MDPI Sensors Journal (IF:3.4) : Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
 
