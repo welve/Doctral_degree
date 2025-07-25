@@ -30,5 +30,5 @@
 
        Accepted : 2025.04
        Software : Algorithm with C++
-       Materials : Kinematics of 4WIS mobile robot, LiDAR, Kalman-filter
+       Materials : Self-Driving
 
