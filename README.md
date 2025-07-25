@@ -17,7 +17,7 @@
 
 # 🎯 Project 2
 ## 4 Wheel Independent Steering(4WIS) mobile robot for Indoor Environments
-📅 **Project Duration:** ***2024.10 ~ 2025.10***
+📅 **Project Duration:** ***2025.11 ~ 2025.04***
 
        
 #### - IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
