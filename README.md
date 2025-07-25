@@ -20,11 +20,11 @@
 📅 **Project Duration:** ***2025.11 ~ 2025.04***
 
        
-#### - IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
+#### - MDPI Electronics Journal (🟢 IF:2.6) :<br>  Efficient Graph-based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots
         
        Accepted : 2025.02
        Software : Algorithm with Python
-       Materials : LiDAR, Kalman-filter
+       Materials : Dijkstra, Kalman-filter
 
 #### - MDPI Sensors Journal (🟢 IF:3.4) :<br> Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
 
