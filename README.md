@@ -26,7 +26,7 @@
        Software : Algorithm with Python
        Materials : Dijkstra, Kalman-filter
 
-#### - MDPI Sensors Journal (🟢 IF:3.4) :<br> Time-Interval Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments
+#### - -Joint symposium on the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025)
 
        Accepted : 2025.04
        Software : Algorithm with C++
