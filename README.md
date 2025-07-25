@@ -24,7 +24,7 @@
         
        Accepted : 2025.02
        Software : Algorithm with Python
-       Materials : Dijkstra, Kalman-filter
+       Materials : Dijkstra, rviz
 
 #### - -Joint symposium on the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025)
 
