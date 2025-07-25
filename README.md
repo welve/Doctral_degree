@@ -30,5 +30,5 @@
 
        Accepted : 2025.04
        Software : Algorithm with C++
-       Materials : Self-Driving
+       Materials : Autoware
 
