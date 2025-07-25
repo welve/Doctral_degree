@@ -26,7 +26,7 @@
        Software : Algorithm with Python
        Materials : Dijkstra, rviz
 
-#### - -Joint symposium on the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025)
+#### - Joint symposium on the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the 14th IFAC Symposium on Robotics (ROBOTICS 2025)
 
        Accepted : 2025.04
        Software : Algorithm with C++
