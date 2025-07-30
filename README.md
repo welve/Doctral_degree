@@ -17,7 +17,7 @@
 
 # 🎯 Project 2
 ## 4 Wheel Independent Steering(4WIS) mobile robot for Indoor Environments
-📅 **Project Duration:** ***2025.02 ~ 2025.07***
+📅 **Project Duration:** ***2025.02 ~ 2025.04***
 
        
 #### - MDPI Electronics Journal (🟢 IF:2.6) :<br>  Efficient Graph-based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots
