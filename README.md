@@ -1,6 +1,6 @@
 # 🎯 Project 1
 ## 4 Wheel Independent Steering(4WIS) mobile robot
-📅 **Project Duration:** ***2024.10 ~ 2025.01***
+📅 **Project Duration:** ***2024.06 ~ 2025.01***
 
        
 #### - IEEE/IEIE ICCE-Asia International Conference 2024 (9th) : Human trajectory prediction algorithm 
@@ -17,7 +17,7 @@
 
 # 🎯 Project 2
 ## 4 Wheel Independent Steering(4WIS) mobile robot for Indoor Environments
-📅 **Project Duration:** ***2025.02 ~ 2025.04***
+📅 **Project Duration:** ***2024.10 ~ 2025.04***
 
        
 #### - MDPI Electronics Journal (🟢 IF:2.6) :<br>  Efficient Graph-based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots
